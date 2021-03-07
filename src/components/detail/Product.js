@@ -239,9 +239,7 @@ const DetailWrap = styled.div`
       width: 100px;
       transition: 0.5s;
       font-size: 30px;
-      @media ${device.tabletMobile} {
-          width:33.33%;
-      }
+      width:33.33%;
     }
     span{
         @media ${device.tabletMobile} {
